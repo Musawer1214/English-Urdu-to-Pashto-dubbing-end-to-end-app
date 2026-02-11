@@ -1,5 +1,20 @@
-## Advanced Models and Cross-Platform Support
+# ROADMAP
 
-In our ongoing efforts to enhance the functionalities of the English-Urdu to Pashto Dubbing End-to-End App, we have prioritized the integration of advanced models that leverage the latest advancements in AI and machine learning. These models are designed to improve the accuracy and efficiency of dubbing, ensuring more natural-sounding results.
+## Multi-Language Support
+- Enhance the application to support various languages, ensuring a seamless dubbing experience for users globally.
+- Implement language recognition to automatically choose the preferred dubbing language based on user settings.
 
-Additionally, we recognize the importance of cross-platform support. The application will be accessible on multiple platforms, including web, mobile, and desktop. This ensures that users can enjoy a seamless experience, regardless of their device preference, thereby increasing accessibility and user engagement.
+## Advanced Models
+- Develop and integrate more advanced AI models for improved accuracy in dubbing, including emotional context detection and tone adjustments.
+- Explore partnerships with external AI research groups for continuous model enhancements.
+
+## Cross-Platform Expansion
+- Extend the application compatibility to include mobile platforms, allowing users to access dubbing services on the go.
+- Consider implementing a web-based interface for easy access from any device without the need for downloads.
+- Aim to optimize performance for all platforms to ensure a smooth user experience.
+
+## Timeline
+- Q1 2026: Research and initial model development.
+- Q2 2026: Begin user testing for multi-language support.
+- Q3 2026: Launch cross-platform applications.
+- Q4 2026: Gather user feedback and iterate on features.
